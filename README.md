@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FCardozera
+- 👀 I’m interested in learning new stuff
+- 🌱 I’m currently learning Software Engineering in UNIPAMPA - Alegrete, RS - Brazil
+- 📫 How to reach me: felipebcardoso0711@outlook.com
