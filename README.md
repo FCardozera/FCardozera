@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FCardozera
+- 👋 Hi, I’m Felipe Bender Cardoso
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning Software Engineering in UNIPAMPA - Alegrete, RS - Brazil
+- 🌱 I’m currently a Student of Software Engineering Bachelor in UNIPAMPA - Alegrete, RS - Brazil
 - 📫 How to reach me: felipebcardoso0711@outlook.com
