@@ -38,19 +38,6 @@
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=fcardozera&show_icons=true&theme=dark&locale=en&count_private=true" alt="fcardozera stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=fcardozera&show_icons=true&theme=dark&locale=en&layout=compact" alt="fcardozera top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fcardozera&theme=dark" alt="fcardozera streak" />
-</p>
-
----
-
 ### 🤝 Connect
 
 <p align="left">
