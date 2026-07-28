@@ -3,7 +3,6 @@
 
 <p align="center">
   Software Engineering graduate (UNIPAMPA, Brazil) focused on backend and distributed systems.<br>
-  Building the servers behind games — online services, not the game itself.
 </p>
 
 ---
